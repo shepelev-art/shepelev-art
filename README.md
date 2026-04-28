@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет! Я Артем 👋
 
-<!--
-**shepelev-art/shepelev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Кто я
 
-Here are some ideas to get you started:
+**Data Engineer** с 6-летним опытом в дата-инженерии (и 8.5 лет в IT).  
+Работал в **Сбере** в финансовом блоке, строил ETL-пайплайны для витрин более **300 ТБ**, оптимизировал Spark и Hadoop.  
+Сейчас развиваюсь в сторону **Airflow**, **Docker** и современных Data Lake решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Контакты для связи
+
+- **Telegram:** [@shepelevArt](https://t.me/shepelevArt)
+- **Email:** shepelev.tema@yandex.ru
+
+---
+
+## 🛠 Технологии и стек
+
+**Big Data:** Apache Spark, Hadoop (HDFS, Hive), PySpark
+
+**Языки:** Python, SQL (MS SQL, Greenplum, Teradata, Hive SQL)
+
+**Базы данных:** Greenplum, MS SQL, Teradata, PostgreSQL, Oracle (базово)
+
+**Оркестрация и мониторинг:** Cron, Airflow (изучение), Grafana, Ambari
+
+**Инструменты:** Git, Jira, Confluence, Linux, Docker
